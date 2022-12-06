@@ -1,0 +1,22 @@
+{
+    "name": "jelhan/renovate-bot-php-platform-config-issue",
+    "autoload": {
+        "psr-4": {
+            "Jelhan\\RenovateBotPhpPlatformConfigIssue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jeldrik Hanschke",
+            "email": "admin@jhanschke.de"
+        }
+    ],
+    "require": {
+    	"php": "^7.4"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    }
+}
